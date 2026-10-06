@@ -1,0 +1,110 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-10-06",
+  "servers": [
+    {
+      "id": "craftrise",
+      "name": "Craftrise",
+      "name_ar": "كرافت رايز",
+      "ip": "play.craftrise.com",
+      "port": 25565,
+      "versions": ["1.8", "1.12", "1.16"],
+      "region": "Turkey/Arab",
+      "description": "أشهر سيرفر تركي للعرب - PvP ممتاز",
+      "description_en": "Famous Turkish server for Arabs - excellent PvP",
+      "players": "10,000+",
+      "type": "PvP, Survival, Skyblock"
+    },
+    {
+      "id": "thearchon",
+      "name": "TheArchon",
+      "name_ar": "الأركون",
+      "ip": "play.thearchon.net",
+      "port": 25565,
+      "versions": ["1.8", "1.16", "1.20"],
+      "region": "Global",
+      "description": "سيرفر عالمي - PvP وFactions",
+      "description_en": "Global server - PvP and Factions",
+      "players": "5,000+",
+      "type": "PvP, Factions, KitPvP"
+    },
+    {
+      "id": "hypixel",
+      "name": "Hypixel",
+      "name_ar": "هيبيكسل",
+      "ip": "mc.hypixel.net",
+      "port": 25565,
+      "versions": ["1.8", "1.20"],
+      "region": "Global",
+      "description": "أكبر سيرفر ماين كرافت في العالم",
+      "description_en": "Biggest Minecraft server in the world",
+      "players": "100,000+",
+      "type": "Minigames, Skyblock, Bedwars"
+    },
+    {
+      "id": "cubecraft",
+      "name": "CubeCraft",
+      "name_ar": "كيوب كرافت",
+      "ip": "play.cubecraft.net",
+      "port": 25565,
+      "versions": ["1.8", "1.16", "1.20"],
+      "region": "Global",
+      "description": "سيرفر Minigames شهير",
+      "description_en": "Famous Minigames server",
+      "players": "20,000+",
+      "type": "Minigames, Bedwars, Skywars"
+    },
+    {
+      "id": "mmc",
+      "name": "Minehut",
+      "name_ar": "ماين هات",
+      "ip": "minehut.com",
+      "port": 25565,
+      "versions": ["1.8", "1.16", "1.20"],
+      "region": "Global",
+      "description": "سيرفر مجاني للاعبين",
+      "description_en": "Free server for players",
+      "players": "3,000+",
+      "type": "Free, Custom"
+    },
+    {
+      "id": "totem",
+      "name": "TotemMC",
+      "name_ar": "توتيم",
+      "ip": "play.totemmc.net",
+      "port": 25565,
+      "versions": ["1.8", "1.16"],
+      "region": "Arab",
+      "description": "سيرفر عربي - PvP وBedwars",
+      "description_en": "Arabic server - PvP and Bedwars",
+      "players": "1,000+",
+      "type": "PvP, Bedwars"
+    },
+    {
+      "id": "applecraft",
+      "name": "AppleCraft",
+      "name_ar": "أبل كرافت",
+      "ip": "play.applecraft.net",
+      "port": 25565,
+      "versions": ["1.8", "1.16", "1.20"],
+      "region": "Arab",
+      "description": "سيرفر عربي - Survival وSkyBlock",
+      "description_en": "Arabic server - Survival and SkyBlock",
+      "players": "500+",
+      "type": "Survival, Skyblock"
+    },
+    {
+      "id": "complex",
+      "name": "Complex Gaming",
+      "name_ar": "كومبلكس",
+      "ip": "play.complexgaming.net",
+      "port": 25565,
+      "versions": ["1.8", "1.16", "1.20"],
+      "region": "Global",
+      "description": "سيرفر SkyBlock وFactions",
+      "description_en": "SkyBlock and Factions server",
+      "players": "3,000+",
+      "type": "Skyblock, Factions"
+    }
+  ]
+}
